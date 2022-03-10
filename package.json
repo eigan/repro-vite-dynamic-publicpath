@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vite-plugin-dynamic-publicpath": "^1.1.2"
+  },
+  "dependencies": {
+    "vite": "^2.8.6"
+  }
+}
